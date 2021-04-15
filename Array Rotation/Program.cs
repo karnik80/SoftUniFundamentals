@@ -26,6 +26,7 @@ namespace Array_Rotation
                 }
             }
             Console.WriteLine(string.Join(" ", input));
+            //tettdhgkfefuefuekv
         }
     }
 }
