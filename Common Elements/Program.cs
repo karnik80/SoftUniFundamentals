@@ -6,6 +6,7 @@ namespace Common_Elements
     {
         static void Main(string[] args)
         {
+            //jsdlhfoy823782fhqe80yg-qytfpqhfpi2eho
             string[] arr1 = Console.ReadLine().Split();
             string[] arr2 = Console.ReadLine().Split();
 
